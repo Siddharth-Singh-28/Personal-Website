@@ -1,0 +1,48 @@
+#navbarNavAltMarkup{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.lead{
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: 400;
+  color: gray;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  border-radius: 50%;
+}
+
+#projectsoverview{
+  margin-bottom: 50px;
+}
+#projectoverview{
+  display: flex;
+  justify-content: space-around;
+}
+
+.GridContainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+#notSiddharth{
+  margin-bottom: 50px;
+}
+
+#ronaldo{
+  border-radius: 50%;
+}
+
+#skillsdiv{
+  margin: 0;
+  padding: 0;
+}
